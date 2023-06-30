@@ -28,9 +28,12 @@ html {
     top: 0px;
     width: 200px;
     height: 200px;
-    border: solid 2px black;
+    border: solid 2px rgb(111, 111, 111);
     z-index: 0;
     padding: 10px;
+    background-color: aliceblue;
+    opacity: 0.5;
+    border-radius: 20px;
 }
 
 
@@ -41,7 +44,10 @@ html {
     height: 200px;
     right:0px;
     bottom: 0px;
-    border: solid 2px black;
+    border: solid 2px rgb(110, 110, 110);
     z-index: 0;
     padding: 10px;
+    background-color: aliceblue;
+    opacity: 0.5;
+    border-radius: 20px;
 }
